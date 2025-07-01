@@ -29,3 +29,8 @@ This tool is intended as a final check before submitting an essay, but it may no
 ## Privacy Policy
 
 No user data or content is collected or stored. Access to the user’s document is requested solely to enable the tool’s function and is not retained.
+
+## Support
+
+If you have any questions or issues, please feel free to create an issue on this GitHub repository or email `contact@clubpenguinmountains.com`.
+
