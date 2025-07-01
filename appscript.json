@@ -1,0 +1,25 @@
+{
+	"timeZone": "Europe/London",
+	"dependencies": {},
+	"exceptionLogging": "STACKDRIVER",
+	"runtimeVersion": "V8",
+	"oauthScopes": [
+		"https://www.googleapis.com/auth/documents.currentonly",
+		"https://www.googleapis.com/auth/script.container.ui"
+	],
+	"addOns": {
+		"common": {
+			"name": "Missing Citation Checker",
+			"logoUrl": "https://raw.githubusercontent.com/Aurorum/missing-citation-checker/refs/heads/master/icon.png",
+			"useLocaleFromApp": true,
+			"homepageTrigger": {
+				"runFunction": "onOpen"
+			}
+		},
+		"docs": {
+			"homepageTrigger": {
+				"runFunction": "onOpen"
+			}
+		}
+	}
+}
